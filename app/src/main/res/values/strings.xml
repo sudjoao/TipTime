@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="input_hint">Custo do serviço</string>
+    <string name="service_question">Como foi o serviço?</string>
+    <string name="amazing_service">Ótimo (20%)</string>
+    <string name="good_service">Bom (18%)</string>
+    <string name="ok_service">OK (15%)</string>
+    <string name="round_switch_text">Arredondar valor?</string>
+    <string name="calculate_button_text">Calcular</string>
+    <string name="tip_amount_text">Quantidade de Gorjeta: %s</string>
+</resources>
