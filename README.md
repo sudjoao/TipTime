@@ -1,1 +1,1 @@
-"# TipTime" 
+# TipTime
